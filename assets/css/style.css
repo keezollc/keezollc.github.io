@@ -156,7 +156,7 @@
     .kee-type__ruled-header span::before, .kee-type__ruled-header span::after {
       position: absolute;
       top: 0;
-      width: 200px;
+      width: 100px;
       height: 5px;
       border-bottom: 1px solid #ddd;
       content: ""; }
