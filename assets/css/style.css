@@ -1193,6 +1193,8 @@ div {
     letter-spacing: 0.04em;
     line-height: 1.5rem;
     color: #222; }
+    .kee-footer__link:link, .kee-footer__link:hover, .kee-footer__link:visited {
+      color: #222; }
   .kee-footer__copyright {
     display: flex;
     flex-direction: row;
